@@ -1679,6 +1679,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anubhav 🍉</b></sub>
                </a>
             </td>
+         <td align="center">
+                <a href="https://github.com/Darshan016">
+                    <img src="https://avatars.githubusercontent.com/u/105854074?v=4" width="100px;" alt="Darshan Panchal"/>
+                    <br />
+                    <sub><b>Darshan Panchal</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
